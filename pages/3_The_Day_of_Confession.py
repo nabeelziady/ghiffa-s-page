@@ -13,7 +13,7 @@ with col2:
 with col3:
     st.image("gipa22.jpg", use_container_width=True)
     
-st.title("The Day I Confessed ℐ𝓁ℴ𝓋ℯ 𝓎ℴ𝓊 <3")
+st.title("The Day I Confessed 𝖂𝖍𝖆𝖙 𝖙𝖍𝖊 𝖘𝖎𝖌𝖒𝖆 𝖂𝖍𝖆𝖙 𝖙𝖍𝖊 𝖘𝖎𝖌𝖒𝖆 𝖂𝖍𝖆𝖙 𝖙𝖍𝖊 𝖘𝖎𝖌𝖒𝖆 <3")
 st.subheader("It Was Such a Pleasure !❤️")
 st.write("21th of April 2025, the day the day the daayyyyyy Nabeel got the honor to date such a precious, wonderful, beautiful, unimagineable, and a fairytale lady that Nabeel had always looking for. It was such a pleasure to be a boyfriend of such a fairy. Even till today, Nabeel still grateful that he can be hers.")
 
