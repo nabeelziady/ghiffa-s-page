@@ -1,0 +1,3 @@
+streamlitstreamlit
+pandas
+numpy
