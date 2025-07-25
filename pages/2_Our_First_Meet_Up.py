@@ -5,9 +5,16 @@ st.set_page_config(
     layout="centered"
 )
 
-_, center_col, _ = st.columns([1, 2, 1])
-with center_col:
-    st.image("gipa15.jpg", width=300)
-st.title("The First Time We Know Each Other")
-st.subheader("DMs All The Way")
-st.write("
+col1, col2 = st.columns(2)
+with col1:
+    st.image("gipa17.jpg", use_container_width=True)
+with col2:
+    st.image("gipa18.jpg", use_container_width=True)
+with col3:
+    st.image("gipa19.jpg", use_container_width=True
+    
+st.title("The First Time We Met 𝖂𝖍𝖆𝖙 𝖙𝖍𝖊 𝖘𝖎𝖌𝖒𝖆")
+st.subheader("One of the BEST DAY Nabeel Ever Had !")
+st.write("April 10th 2025, 'iuwhaihufegqfgiagf' is what nabeel feel about that day, it was just too cute twin🥀, but it's so real though, Nabeel really prepared EVERYTHING the day before, like an umbrella, 2 raincoats, first aid kit, tissues, perfumes, and others. He also made a whole rundown for the day, even though it kinda delayed because of the rain and traffic, but it was all wrapped.")
+
+st.write("What's funny is, Nabeel made a chit-chat scenario in his head when he meet her, but when it comes, his head was BLANKED and all he did was an awkward laugh and some nervousness. Well he was too stunned by her beauty bro it can't be helped😹✌️", but you know she smells ssooooooooooooooooooo goooooooood that time, her smiles also makes him relieved from all the upset because of the rain.")
