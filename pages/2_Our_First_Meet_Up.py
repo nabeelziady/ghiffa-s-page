@@ -11,7 +11,7 @@ with col1:
 with col2:
     st.image("gipa18.jpg", use_container_width=True)
 with col3:
-    st.image("gipa19.jpg", use_container_width=True
+    st.image("gipa19.jpg", use_container_width=True)
     
 st.title("The First Time We Met 𝖂𝖍𝖆𝖙 𝖙𝖍𝖊 𝖘𝖎𝖌𝖒𝖆")
 st.subheader("One of the BEST DAY Nabeel Ever Had !")
