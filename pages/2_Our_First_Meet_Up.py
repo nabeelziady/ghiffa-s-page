@@ -1,11 +1,11 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="How It Started | Home",
+    page_title="Our First Meet | Home",
     layout="centered"
 )
 
-col1, col2 = st.columns(2)
+col1, col2, col3 = st.columns(3)
 with col1:
     st.image("gipa17.jpg", use_container_width=True)
 with col2:
