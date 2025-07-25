@@ -5,9 +5,12 @@ st.set_page_config(
     layout="centered"
 )
 
-_, center_col, _ = st.columns([1, 2, 1])
-with center_col:
-    st.image("gipa15.jpg", width=300)
+col1, col2 = st.columns(2)
+with col1:
+    st.image("gipa16.jpg", use_container_width=300)
+with col2:
+    st.image("gipa15.jpg", use_container_width=300)
+    
 st.title("The First Time We Know Each Other")
 st.subheader("DMs All The Way")
 st.write("It was the 12th of March 2025, when Nabeel started his shot with 'lucu kak gambarnya' at 10 pm." \
